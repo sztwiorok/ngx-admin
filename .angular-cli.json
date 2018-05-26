@@ -14,7 +14,7 @@
         {
           "glob": "**/*",
           "input": "../node_modules/leaflet/dist/images",
-          "output": "./assets/img/markers"
+          "output": "./assets/img/markerss"
         }
       ],
       "index": "index.html",
